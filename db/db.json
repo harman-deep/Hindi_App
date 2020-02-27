@@ -1,0 +1,22 @@
+{
+    "restaurant" : [
+        {"id":1, 
+        "Name":"New Delhi",
+        "Address":"Kitchner",
+        "Rating":1
+    },
+
+    {"id":2, 
+        "Name":"Onkar",
+        "Address":"Waterloo",
+        "Rating":3
+    },
+
+    {"id":3, 
+        "Name":"Saffron",
+        "Address":"Cambridge",
+        "Rating":4.5
+    }
+        
+    ]
+}
